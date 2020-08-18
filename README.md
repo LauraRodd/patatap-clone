@@ -12,3 +12,6 @@ Press any key on your keyboard and turn up your volume.
 - CSS
 - Paper.js
 - Howler.js
+
+
+## View [live](https://laurarodd.github.io/patatap-clone/)
